@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Testing React Components With Shallow Rendering"
 date: 2016-01-02T21:44:54-05:00
 blurb: "Using Shallow Rendering to only render the DOM in question"

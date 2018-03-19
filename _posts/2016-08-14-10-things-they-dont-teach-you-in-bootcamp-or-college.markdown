@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "10 Things They Don't Teach You in Bootcamp or College"
 date: 2016-08-14T17:22:36-04:00
 blurb: "Some thoughts on my first year on the job"

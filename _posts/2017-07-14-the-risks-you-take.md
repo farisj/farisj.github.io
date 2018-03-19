@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Risks You Take When You Use Ember.computed.oneWay"
 date: 2017-07-14T17:22:36-04:00
 blurb: "Undersanding a few important computed properties"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Validations in Active Record"
 date: 2015-07-07 16:04:11 -0400
 blurb: "Exploring how Validations work in ActiveRecord"

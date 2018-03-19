@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "How Associations Are Built In Rails"
 date: 2015-12-20T17:55:43-05:00
 blurb: "A deeper dive into Rails Associations"

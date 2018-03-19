@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: single
 title: "An Example of Ruby's Flexibility"
-date: 2015-06-09 18:10:58 -0400
+last_modified_at: 2015-06-09 18:10:58 -0400
 blurb: "My first post on the power of ruby"
 ---
 

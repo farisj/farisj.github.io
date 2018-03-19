@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Quick Start Guide On Making A Twitter Bot"
 date: 2016-03-27T17:20:00-04:00
 blurb: "How to set up a twitter bot quickly using Heroku"

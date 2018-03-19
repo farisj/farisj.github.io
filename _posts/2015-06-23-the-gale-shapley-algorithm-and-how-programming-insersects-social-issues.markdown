@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Gale-Shapley Algorithm and How Programming Intersects with Social Issues"
 date: 2015-06-23 14:12:03 -0400
 blurb: "A Discussion on The Intersection between Computer and Social Sciences"

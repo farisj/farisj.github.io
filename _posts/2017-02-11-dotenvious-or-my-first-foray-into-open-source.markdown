@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Dotenvious, or, my first foray into Open Source"
 date: 2017-07-14T17:22:36-04:00
 blurb: Sharing my first journey developing my own open source project

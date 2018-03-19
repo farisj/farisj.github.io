@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Model Testing with RSpec"
 date: 2015-08-04 08:48:37 -0400
 blurb: "Thoughts on best practices for Rails Model testing in RSpec"

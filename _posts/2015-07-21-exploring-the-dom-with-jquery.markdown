@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Exploring the DOM with jQuery"
 date: 2015-07-21 00:11:49 -0400
 blurb: "Exploring how JQuery traverses the DOM"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Custom Buildpacks in Heroku"
 date: 2015-12-05T19:00:09-05:00
 blurb: "Discussing the structure of custom Heroku Buildpacks"

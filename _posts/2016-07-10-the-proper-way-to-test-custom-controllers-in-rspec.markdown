@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Proper Way to Test Custom Controllers in Rspec"
 date: 2016-07-10T21:24:03-04:00
 blurb: "Using the #controller method provided by rspec"
